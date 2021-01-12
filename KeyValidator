@@ -1,0 +1,33 @@
+Отчёт о тестировании <KeyValidator>
+проверка через KeyValidator на Валидные/НЕвалидные Ключи
+<11.01.2021> - <12.01.2021> было проведено <функциональное тестирование> приложения <KeyValidator>.
+
+На тестирование затрачено: <28>
+
+В результате тестирования выявлены следующие дефекты:
+
+<https://github.com/avet87/feature-code-documentation/issues/3#issue-784550786>
+<https://github.com/avet87/feature-code-documentation/issues/4#issue-784555107>
+<https://github.com/avet87/feature-code-documentation/issues/5#issue-784559067>
+Описание процесса тестирования
+1. открыть терминал, по адресу где расположен файл KeyValidator.class
+2. ввести команду java KeyValidator + Ключ
+
+
+В качестве тестовых данных использовались данные <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md>:
+
+Валидные ключи:
+<8f05e6a7-70e9-33d7-bfe7-b19eae0d8998>
+<b295bc63-9f03-3b4b-af80-969b39f8c262>
+<c19a8cf9-5c3a-37c5-b7f3-d16d38a0c180>
+
+Невалидные ключи:
+<18252235-78e0-44a5-8720-556f0c7da17a>
+<e66075b6-ddad-445e-baf6-161b3289522b>
+<b6d53250-f07e-4352-a293-6102ddf7f1ca>
+<c2bc778a-1cb9-46c6-b435-0489649d2a42>
+
+Тестирование производилось в следующем окружении:
+
+<HP,windows 10, 64 разрядная ОС.>
+<версия Java-11>
