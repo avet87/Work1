@@ -1,14 +1,14 @@
-Отчёт о тестировании <KeyValidator>
-проверка через KeyValidator на Валидные/НЕвалидные Ключи
-<11.01.2021> - <12.01.2021> было проведено <функциональное тестирование> приложения <KeyValidator>.
+# Отчёт о тестировании <KeyValidator>
+* проверка через KeyValidator на Валидные/НЕвалидные Ключи
+<16.01.2021> - <17.01.2021> было проведено <функциональное тестирование> приложения <KeyValidator>.
 
-На тестирование затрачено: <28>
+* На тестирование затрачено: <28>
 
 В результате тестирования выявлены следующие дефекты:
 
-<https://github.com/avet87/feature-code-documentation/issues/3#issue-784550786>
-<https://github.com/avet87/feature-code-documentation/issues/4#issue-784555107>
-<https://github.com/avet87/feature-code-documentation/issues/5#issue-784559067>
+<>
+<>
+<>
 Описание процесса тестирования
 1. открыть терминал, по адресу где расположен файл KeyValidator.class
 2. ввести команду java KeyValidator + Ключ
