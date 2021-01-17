@@ -7,14 +7,14 @@
 ## В результате тестирования выявлены следующие дефекты:
 
 [Валидный ключ, не рабочий.1](https://github.com/avet87/Work1/issues/1#issue-787758235)
-<>
-<>
+[Валидный ключ, не рабочий.2](https://github.com/avet87/Work1/issues/2#issue-787762697)
+[Невалидный ключ, рабочий](https://github.com/avet87/Work1/issues/3#issue-787763769)
 Описание процесса тестирования
 1. открыть терминал, по адресу где расположен файл KeyValidator.class
 2. ввести команду java KeyValidator + Ключ
 
 
-В качестве тестовых данных использовались данные <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md>:
+[В качестве тестовых данных использовались данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 Валидные ключи:
 <8f05e6a7-70e9-33d7-bfe7-b19eae0d8998>
