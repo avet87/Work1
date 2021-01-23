@@ -6,11 +6,8 @@
 
 ## В результате тестирования выявлены следующие дефекты:
 
-[Валидный ключ 80b427f8-92cd-3aae-ba04-3927fbe17c6 выдает ошибку.](https://github.com/avet87/Work1/issues/1#issue-787758235)
+[Невернные валидные/Невалидные ключи](https://github.com/avet87/Work1/issues/1#issue-787758235)
 
-[Валидный ключ 387eedc6-12e9-3b32-9881-63b6b5e85317 выдает ошибку.](https://github.com/avet87/Work1/issues/2#issue-787762697)
-
-[Невалидный ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 выдает ошибку.](https://github.com/avet87/Work1/issues/3#issue-787763769)
 
 ### Описание процесса тестирования
 
